@@ -18,3 +18,5 @@ The final dashboard includes interactive filters and actionable recommendations 
 This project was a fantastic exercise in data visualization and business storytelling. I'm proud of the skills gained and the professional-level deliverable. Future Interns 
 
 #futureinterns #DataAnalytics #MarketingAnalytics #PowerBI #Dashboard #SocialMediaMarketing #DataVisualization #Project #Analytics #DataDriven
+
+<img width="1325" height="747" alt="TASK 2" src="https://github.com/user-attachments/assets/36bdff9c-7dda-4d33-b112-5fdc46cb3231" />
